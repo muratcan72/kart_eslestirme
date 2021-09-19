@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">kart eslestirme</string>
+    <string name="stringstate">Bugün kendini nasıl\nhissediyorsun</string>
+    <!--    happy activitysi sözleri-->
+    <string name="happy_one">Mutluluk bulaşıcıdır.</string>
+    <string name="happy_two">Mutluluk değişkendir, kimisi için bir eşyadır, kimisi için insandır.</string>
+    <string name="happy_three">Hayatına vazgeçemeyeceğin, keyifli bir tat geliyor. Neşenin ve mutluluğun tadı</string>
+    <!--    angry activitysi sözleri-->
+    <string name="angry_one">Seni kıran da yoran da üzen de çıkacak hayatından. sonra seni seven, öpen, iyileştiren gelecek.</string>
+    <string name="angry_two">Başardığın ve hayallerini yaşadığın anı düşün. Ne yapıyorsan buna değer.</string>
+    <string name="angry_three">Öfkeli olduğun anlarda dahi seni seven ve anlayış gösteren insanlarla birlikte ol.</string>
+
+    <!--    sad activitysi sözleri-->
+    <string name="sad_one">Hüzün bazılarına yakışabilir, lakin kadın dediğin mutluysa güzeldir.</string>
+    <string name="sad_two">Yaşamın çetin sınavları seni yordu diye üzülme. Bu günleri gülümseyerek anacağın keyifli bir yaşam geliyor.</string>
+    <string name="sad_three">Eğer bir hayalin yere düşüp binlerce parçaya ayrıldıysa, parçalardan birini alıp yeniden başlamaktan asla korkma.</string>
+    <!--    tired activitysi sözleri-->
+    <!--    wearyof activitysi sözleri-->
+    <string name="wearyof_one">Şu an üzerinde çalıştığın şey hayatın ve senin için çok önemli.Hatırla</string>
+    <string name="wearyof_two">Hata ve başarısızlık sorun değil.En büyük sorun, kendine inanmamak ve vazgeçmek.</string>
+
+</resources>
